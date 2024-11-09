@@ -1,0 +1,35 @@
+/* src/components/Header.css */
+
+header {
+    background-color: white; /* Purple background */
+    padding: 10px 20px;
+    color: black; /* White text color */
+    font-size: larger;
+}
+  
+nav {
+    display: flex;
+    justify-content: center; /* Center align navigation items */
+}
+  
+ul {
+    display: flex;
+    gap: 20px; /* Space between navigation items */
+    padding: 0;
+    list-style-type: none; /* Remove default list styling */
+}
+  
+ul li {
+    margin: 0;
+}
+  
+a {
+    color: blue; /* White color for links */
+    text-decoration: none; /* Remove underline from links */
+    font-weight: bold; /* Make links bold */
+}
+  
+a:hover {
+    color: blue; /* Golden color on hover */
+}
+  
