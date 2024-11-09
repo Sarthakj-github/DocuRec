@@ -8,6 +8,7 @@
     3. `npm start`
 4. for backend(Terminal 2):
     1. `cd backend`
+    2. `python -m venv .`
     3. `Scripts\activate`
     4. `pip install -r requirements.txt`
     5. `uvicorn main:app --reload`
