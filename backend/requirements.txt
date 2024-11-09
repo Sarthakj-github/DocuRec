@@ -1,6 +1,4 @@
-fastapi==0.95.0
-uvicorn==0.22.0
-easyocr==1.4.1
-numpy==1.23.5
-pydantic==1.10.6
-python-multipart==0.0.5
+fastapi
+uvicorn
+easyocr
+python-multipart
