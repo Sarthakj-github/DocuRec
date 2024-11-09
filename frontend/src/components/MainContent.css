@@ -1,0 +1,17 @@
+/* src/components/MainContent.css */
+main {
+    padding: 20px;
+    background-color: black; /* Black background for content area */
+    color: white; /* White text color */
+    min-height: calc(100vh - 120px); /* Adjust to account for header and footer height */
+}
+main .page {
+    padding: 20px;
+    border-radius: 8px;
+    background-color: grey; /* Purple background for page content */
+}
+  
+main h1, main h2, main h3 {
+    color: blue; /* Golden color for headings */
+}
+  

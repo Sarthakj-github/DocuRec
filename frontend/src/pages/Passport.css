@@ -1,0 +1,20 @@
+/* Passport.css */
+
+.passport {
+    background-color: grey;
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px auto;
+    max-width: 800px;
+    text-align: center;
+}
+
+.passport h1 {
+    color: blue;
+    margin-bottom: 15px;
+}
+
+.passport p {
+    font-size: 18px;
+}

@@ -1,0 +1,20 @@
+/* src/components/NavLink.css */
+li {
+    margin: 0;
+    list-style: none; /* Ensure list items don't have default bullets */
+}
+  
+.hbut {
+    color: black ; /* White text color for links */
+    text-decoration: none; /* Remove underline from links */
+    font-weight: bold; /* Make links bold */
+    padding: 10px 15px; /* Add padding around links */
+    display: block; /* Make the entire link area clickable */
+    transition: color 0.3s, background-color 0.3s; /* Smooth transition for hover effects */
+}
+
+.hbut:hover {
+    color: blue; /* Golden color on hover */
+    background-color: grey; /* Purple background on hover */
+    border-radius: 4px; /* Slightly rounded corners */
+}
