@@ -1,7 +1,6 @@
 from fastapi import FastAPI, UploadFile, File, Form
 from fastapi.middleware.cors import CORSMiddleware
 import easyocr
-import numpy as np
 import re
 from pydantic import BaseModel
 from datetime import datetime
