@@ -8,6 +8,8 @@
     3. `npm start`
 4. for backend(Terminal 2):
     1. `cd backend`
-    2. `Scripts\activate`
-    3. `uvicorn main:app --reload`
-5. May use sample images in backend\images folder.
+    2. `python -m venv .`
+    3. `Scripts\activate`
+    4. `pip install -r requirements.txt`
+    5. `uvicorn main:app --reload`
+6. May use sample images in backend\images folder.
