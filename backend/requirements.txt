@@ -1,8 +1,4 @@
 fastapi
 uvicorn
 easyocr
-<<<<<<< HEAD
 python-multipart
-=======
-python-multipart
->>>>>>> 7764d3675fa8feaa35418b66b9be8e74e4fc7b68
